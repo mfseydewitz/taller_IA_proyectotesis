@@ -1,0 +1,5 @@
+opencv-python-headless
+numpy
+openpyxl
+pyobjc-framework-Vision
+pyobjc-framework-Quartz

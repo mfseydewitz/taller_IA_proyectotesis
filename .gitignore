@@ -1,0 +1,20 @@
+# Entorno
+.venv/
+__pycache__/
+.DS_Store
+
+# DATOS DE PACIENTES: nunca subir
+prueba_entrada/
+prueba_salida/
+*_clave_sensible.*
+*_CLAVE_SENSIBLE.*
+
+# Cualquier dato clínico por extensión
+*.mp4
+*.jpg
+*.jpeg
+*.png
+*.xlsx
+*.xls
+*.csv
+*.docx
